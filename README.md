@@ -12,10 +12,10 @@
     - [ ] Utilize some Python web framework  
     - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
-**Front-end**  
+# Front-end  
    - [ ]  
    - [ ]  
-**Back-end**  
+# Back-end  
    - **Hosting**   
       - [x] Shared     
       - [ ] VPS  

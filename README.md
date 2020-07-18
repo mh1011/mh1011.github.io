@@ -1,5 +1,3 @@
-# mh1011 Zone
-
 #### Purpose of this project is to get myself familiarize front-end & back-end web technology.  
 
 ## Objectives:  
@@ -9,7 +7,7 @@
     - [x] Get a Basic Jekyll Theme  
     - [ ] Work on index.md (or indel.html) file  
     - [ ] Create a Webpage showcasing your projects  
-    - [ ] Utilize some Python web framework  
+    - [ ] Utilize Python web framework  
     - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
 #### Front-end  

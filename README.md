@@ -5,33 +5,33 @@
 #### Objectives:  
 **Date: july 17, 2019**  
 01. Follow the instruction of: [**GitHub Pages Guide**](https://guides.github.com/features/pages/)    
-      - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website  
-        - [x] Get a Basic Jekyll Theme  
-        - [ ] Work on index.md (or indel.html) file  
-        - [ ] Create a Webpage showcasing your projects  
-        - [ ] Something 
-        - [ ] Test the limits of **GitHub Pages**
+    - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website  
+    - [x] Get a Basic Jekyll Theme  
+    - [ ] Work on index.md (or indel.html) file  
+    - [ ] Create a Webpage showcasing your projects  
+    - [ ] Something 
+    - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
-        - **Front-end**  
-            - [ ]  
-            - [ ]  
+    - **Front-end**  
+        - [ ]  
+        - [ ]  
         - **Back-end**  
-            - *Hosting*  
-                - [x] Shared     
-                - [ ] VPS  
-                - [ ] Dedicated  
-                - [ ] Cloud  
-            - *Management*  
-                - [ ] cPanel  
-                - [ ] WHM  
-                - [ ] Webmin (Maybe)
+            - **Hosting**   
+               - [x] Shared     
+               - [ ] VPS  
+               - [ ] Dedicated  
+               - [ ] Cloud  
+        - **Management**  
+               - [ ] cPanel  
+               - [ ] WHM  
+               - [ ] Webmin (Maybe)  
 03. Create a Website on **GitHub Pages**using the following Language (or have intention to use them)        
-        - HTML5  
-        - YML  
-        - Jekyll Theme  
-        - CSS3 (Maybe)  
-        - Flask (Maybe)  
-        - Django (Maybe)  
+    - **HTML5**  
+    - **YML**  
+    - **Jekyll Theme**  
+    - **CSS3 (Maybe)**  
+    - **Flask (Maybe)**  
+    - **Django (Maybe)**  
 04. Take these lessons to Build my Own Website.    
 05. Properly document important things on **README.md** file    
 

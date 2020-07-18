@@ -9,22 +9,22 @@
     - [x] Get a Basic Jekyll Theme  
     - [ ] Work on index.md (or indel.html) file  
     - [ ] Create a Webpage showcasing your projects  
-    - [ ] Something 
+    - [ ] Utilize some Python web framework  
     - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
-    - **Front-end**  
-        - [ ]  
-        - [ ]  
-        - **Back-end**  
-            - **Hosting**   
-               - [x] Shared     
-               - [ ] VPS  
-               - [ ] Dedicated  
-               - [ ] Cloud  
-        - **Management**  
-               - [ ] cPanel  
-               - [ ] WHM  
-               - [ ] Webmin (Maybe)  
+**Front-end**  
+   - [ ]  
+   - [ ]  
+**Back-end**  
+   - **Hosting**   
+      - [x] Shared     
+      - [ ] VPS  
+      - [ ] Dedicated  
+      - [ ] Cloud  
+   - **Management**  
+      - [ ] cPanel  
+      - [ ] WHM  
+      - [ ] Webmin (Maybe)  
 03. Create a Website on **GitHub Pages**using the following Language (or have intention to use them)        
     - **HTML5**  
     - **YML**  

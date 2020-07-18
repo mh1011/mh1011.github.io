@@ -2,7 +2,7 @@
 
 #### Purpose of this project is to get myself familiarize front-end & back-end web technology.  
 
-#### Objectives:  
+## Objectives:  
 **Date: july 17, 2019**  
 01. Follow the instruction of: [**GitHub Pages Guide**](https://guides.github.com/features/pages/)    
     - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website  
@@ -12,10 +12,10 @@
     - [ ] Utilize some Python web framework  
     - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
-# Front-end  
+#### Front-end  
    - [ ]  
    - [ ]  
-# Back-end  
+#### Back-end  
    - **Hosting**   
       - [x] Shared     
       - [ ] VPS  

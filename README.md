@@ -1,17 +1,17 @@
 # mh1011 Zone
 
-##### Purpose of this project is to get myself familiarize front-end & back-end web technology.
+#### Purpose of this project is to get myself familiarize front-end & back-end web technology.  
 
 #### Objectives:  
-**Date: july 17, 2019**
-01. Follow the instruction of: [**GitHub Pages Guide**](https://guides.github.com/features/pages/)
-        - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website
-        - [x] Get a Basic Jekyll Theme
-        - [ ] Work on index.md (or indel.html) file
-        - [ ] Create a Webpage showcasing your projects
-        - [ ] 
+**Date: july 17, 2019**  
+01. Follow the instruction of: [**GitHub Pages Guide**](https://guides.github.com/features/pages/)    
+        - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website  
+        - [x] Get a Basic Jekyll Theme  
+        - [ ] Work on index.md (or indel.html) file  
+        - [ ] Create a Webpage showcasing your projects  
+        - [ ]   
         - [ ] Test the limits of **GitHub Pages**
-02. Familiarized with basic web technology (Not related to this project)
+02. Familiarized with basic web technology (Not related to this project)    
         - Front-end
             - [ ]
             - [ ]

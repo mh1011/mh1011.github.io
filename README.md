@@ -9,7 +9,7 @@
         - [x] Get a Basic Jekyll Theme  
         - [ ] Work on index.md (or indel.html) file  
         - [ ] Create a Webpage showcasing your projects  
-        - [ ]   
+        - [ ] Something 
         - [ ] Test the limits of **GitHub Pages**
 02. Familiarized with basic web technology (Not related to this project)    
         - **Front-end**  
@@ -46,8 +46,8 @@
 **Resource Link 3** :  
 **Mard Down**       : (https://www.markdowntutorial.com/)    
 
-
-#### Project URL:  
+## URL:  
+#### Project:    
 [**mh1011.github.io**](https://github.com/mh1011/mh1011.github.io)  
-#### Website URL:  
+#### Website:  
 [**mh1011.github.io**](https://mh1011.github.io/)  

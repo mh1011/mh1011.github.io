@@ -1,4 +1,4 @@
-#  [**mh1011 Zone**](https://mh1011.github.io/) {style=text-align:center}
+#  <div align="center">[**mh1011 Zone**](https://mh1011.github.io/) </div>
 
 #### Purpose of this project is to get myself familiarize front-end & back-end web technology.  
 

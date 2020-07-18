@@ -1,3 +1,5 @@
+# mh1011 Zone
+
 #### Purpose of this project is to get myself familiarize front-end & back-end web technology.  
 
 ## Objectives:  
@@ -5,6 +7,7 @@
 01. Follow the instruction of: [**GitHub Pages Guide**](https://guides.github.com/features/pages/)    
     - [x] Create [**mh1011.github.io**](https://mh1011.github.io/) website  
     - [x] Get a Basic Jekyll Theme  
+      - [ ] Change/Modify the Jekyll Theme  
     - [ ] Work on index.md (or indel.html) file  
     - [ ] Create a Webpage showcasing your projects  
     - [ ] Utilize Python web framework  

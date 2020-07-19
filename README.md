@@ -38,14 +38,21 @@
 
 
 ## Resources:  
-**GitHub Pages**    : (https://guides.github.com/features/pages/)  
-                      (https://docs.github.com/en/github/working-with-github-pages) <br />
-**HTML**            : (https://www.w3schools.com/html/)  
-**Jekyll Themes**   : (https://jekyllrb.com/)  
-**CSS**             : (https://www.w3schools.com/css/default.asp)  
-**Resource Link 3** :  
-**Resource Link 3** :  
-**Mard Down**       : (https://www.markdowntutorial.com/)    
+**GitHub Pages**  
+- (https://guides.github.com/features/pages/)  
+- (https://docs.github.com/en/github/working-with-github-pages)  
+**HTML**  
+- (https://www.w3schools.com/html/)  
+**Jekyll Themes**
+- (https://jekyllrb.com/)  
+**CSS**  
+- (https://www.w3schools.com/css/default.asp)  
+**Resource Link**  
+- 
+**Resource Link**  
+-   
+**Mard Down**  
+- (https://www.markdowntutorial.com/)    
 
 ## URL:  
 #### Project:    

@@ -4,4 +4,4 @@
 <h2>Test</h2>
 
 
-<a href="https://mh1011.github.io/links.html">Links</a>
+<a href="https://mh1011.github.io/links">Links</a>

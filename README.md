@@ -39,24 +39,24 @@
 
 ## Resources:  
 #### GitHub Pages  
-- (https://guides.github.com/features/pages/)  
-- (https://docs.github.com/en/github/working-with-github-pages)  
+- https://guides.github.com/features/pages/    
+- https://docs.github.com/en/github/working-with-github-pages  
 #### HTML    
-- (https://www.w3schools.com/html/)  
+- https://www.w3schools.com/html/  
 #### Jekyll Themes  
-- (https://jekyllrb.com/)  
+- https://jekyllrb.com/    
 #### CSS  
-- (https://www.w3schools.com/css/default.asp)  
+- https://www.w3schools.com/css/default.asp  
 #### Resource Link  
 - 
 -   
 #### Mard Down    
--  https://www.markdowntutorial.com/ 
-- (https://dillinger.io/)  
-- (https://stackedit.io/app#)  
+- https://www.markdowntutorial.com/  
+- https://dillinger.io/    
+- https://stackedit.io/app#  
 
 ## URL:  
 #### Project:    
-[**mh1011.github.io**](https://github.com/mh1011/mh1011.github.io)  
+[**mh1011.github.io**](https://github.com/mh1011/mh1011.github.io)   
 #### Website:  
-[**mh1011.github.io**](https://mh1011.github.io/)  
+[**mh1011.github.io**](https://mh1011.github.io/)      

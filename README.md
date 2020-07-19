@@ -38,20 +38,19 @@
 
 
 ## Resources:  
-**GitHub Pages**  
+# GitHub Pages  
 - (https://guides.github.com/features/pages/)  
 - (https://docs.github.com/en/github/working-with-github-pages)  
-**HTML**  
+# HTML    
 - (https://www.w3schools.com/html/)  
-**Jekyll Themes**
+# Jekyll Themes  
 - (https://jekyllrb.com/)  
-**CSS**  
+# CSS  
 - (https://www.w3schools.com/css/default.asp)  
-**Resource Link**  
+# Resource Link  
 - 
-**Resource Link**  
 -   
-**Mard Down**  
+# Mard Down    
 - (https://www.markdowntutorial.com/)    
 
 ## URL:  

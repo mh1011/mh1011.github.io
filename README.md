@@ -39,7 +39,7 @@
 
 ## Resources:  
 **GitHub Pages**    : (https://guides.github.com/features/pages/)  
-&nbsp;&nbsp;&nbsp;&nbsp;(https://docs.github.com/en/github/working-with-github-pages)  
+<pre>                 (https://docs.github.com/en/github/working-with-github-pages)  </pre>
 **HTML**            : (https://www.w3schools.com/html/)  
 **Jekyll Themes**   : (https://jekyllrb.com/)  
 **CSS**             : (https://www.w3schools.com/css/default.asp)  
